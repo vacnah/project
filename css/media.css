@@ -1,0 +1,148 @@
+@media only screen and (max-width: 1440px){
+    .krm{
+        display: none;
+    }
+    .hk{
+        right: 11%;
+        width: 18%;
+    }
+    .iphone{
+        right: 32%;
+        width: 24%;
+    }
+    .but{
+        width: 9%;
+        right: 1%;
+    }
+
+
+}
+@media only screen and (max-width: 1200px){
+    .toto{
+        display: none;
+    }
+    .toto_2{
+        display: block;
+        position: absolute;
+        height: 120px;
+        top: 0;
+        left: 2%;
+        width: 15%;
+        padding: 2% 0;
+
+    }
+}
+
+@media  only  screen and (max-width:991px)  {
+
+
+    .cup{
+        display: none;
+    }
+    .iphone{
+        right: 59%;
+    }
+    .txt{
+        left: 44%;
+    }
+    .but{
+        width: 11%;
+    }
+    .hk{
+        right: 14%;
+        width: 21%;
+    }
+
+}
+@media only screen and (max-width: 768px){
+    .toto_2,.but{
+        display: none;
+    }
+    .toto_3{
+        position: absolute;
+        top: 8px;
+        left: 2%;
+        width: 15%;
+        padding: 2% 0;
+        height: 120px;
+    }
+    .hk{
+        right: 0;
+        width: 31%;
+    }
+    .txt{
+        width: 25%;
+        padding: 1%;
+    }
+    .iphone{
+        width: 29%;
+        right: 56%;
+    }
+
+}
+@media only screen and (max-width: 500px) {
+    .hk {
+        display: none;
+    }
+
+    .first {
+        display: none;
+    }
+
+    .small_fon {
+        display: block;
+    }
+
+    .txt {
+        width: 35%;
+        left: 63%
+    }
+
+    .iphone {
+        width: 40%;
+        right: 39%;
+    }
+
+    .toto_3 {
+        width: 23%;
+        height: 105px;
+    }
+
+    .ipx {
+        width: 54%;
+        height: 100px;
+        top: 9px;
+        left: 39%;
+        padding: 2%;
+        /*width: 32%;*/
+        /*height: 68px;*/
+        /*top: 34px;*/
+        /*left: 19%;*/
+        /*padding: 2%;*/
+    }
+}
+@media only screen and (max-width: 320px){
+
+       .toto_3{
+           display: none;
+       }
+       .toto_4{
+           display: block;
+           position: absolute;
+           width: 50%;
+           height: 120px;
+           left: 0;
+           padding: 2%;
+           top: 0;
+       }
+       .iphone{
+           display: none;
+       }
+       .txt{
+           width: 48%;
+           left: 50%;
+       }
+   }
+
+
+
